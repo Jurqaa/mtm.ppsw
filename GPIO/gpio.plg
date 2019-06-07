@@ -3,9 +3,11 @@
 <pre>
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
-C:\Users\student\Desktop\GPIO\gpio.uvproj
-Project File Date:  06/06/2019
+C:\Users\student\Desktop\mtm.ppsw\GPIO\gpio.uvproj
+Project File Date:  06/07/2019
 
 <h2>Output:</h2>
+Clean started: Project: 'gpio'
+   deleting intermediate output files for target 'Target 1'
 Clean started: Project: 'gpio'
    deleting intermediate output files for target 'Target 1'
