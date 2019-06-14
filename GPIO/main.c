@@ -95,7 +95,7 @@ enum KeyboardState eKeyboardRead(void){
 void KeyboardInit(void){
   IO0DIR = IO0DIR & (~(BUTT1_bm | BUTT2_bm | BUTT3_bm | BUTT4_bm));
 }
-//git test
+//git
 int main(void){
 
   LedInit();
